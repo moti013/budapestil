@@ -1,0 +1,21 @@
+{
+  "name": "Budapestil",
+  "short_name": "Bil",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#292C2F",
+  "theme_color": "#292C2F",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/images/favicon192192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/images/favicon512512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+ ]
+}
